@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+.vs/
+log.txt
+log2.txt
+AppData/
