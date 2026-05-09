@@ -108,4 +108,4 @@ dotnet run
 ```
 
 Server sluša na `http://localhost:5000/`.  
-Za gašenje unesi `67` u konzoli.
+
